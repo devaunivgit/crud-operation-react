@@ -1,0 +1,12 @@
+body {
+  overflow: hidden;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.content-scroll {
+  overflow: auto;
+  height: 500px;
+}

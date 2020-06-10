@@ -1,0 +1,25 @@
+
+{
+  "back": "retour",
+  "title": "Détails sur l'employé",
+  "lbl_add": "Ajouter",
+  "lbl_slno": "Sl. no",
+  "lbl_date": "Date",
+  "lbl_description": "La description",
+  "lbl_incexp": "Revenus / Dépenses",
+  "lbl_amount": "Montant",
+  "lbl_action": "Action",
+  "lbl_listdetails": "Détails de la liste",
+  "lbl_edit": "Modifier",
+  "lbl_delete": "Supprimer",
+  "lbl_income": "Revenu",
+  "lbl_expense": "Dépenses",
+  "lbl_submit": "Soumettre",
+  "lbl_error_amount": "Veuillez saisir le montant.",
+  "lbl_error_option": "Veuillez choisir une option.",
+  "lbl_error_description": "Veuillez saisir une description.",
+  "lbl_error_date": "Veuillez choisir la date",
+  "lbl_edit_details": "Modifier les détails",
+  "lbl_add_details": "Ajouter des détails",
+  "lbl_reset": "Réinitialiser"
+}
